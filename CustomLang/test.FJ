@@ -1,0 +1,8 @@
+x equals 5 ;
+out ("Hello World") ;
+out (x, " + ", 10,  " = ", x+10) ;
+compare x == 2: ;
+~ out ('x is 2') ;
+FCompare : ;
+~ out ('x is not 2') ;
+// this is a comment

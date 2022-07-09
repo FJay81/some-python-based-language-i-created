@@ -1,0 +1,14 @@
+out - prints stuff
+equals - assigns value
+; - newline
+compare - starts if statement
+NCompare - else if
+FCompare - else
+skip - pass
+~ - indent
+Use a space between each key word/symbol or it won't work.
+All math, comparitive, and boolean operators are the same as python eg. == - + != / * and or True False
+Variables are dynamically written and modified like python.
+Comments are '//' rather than '#'
+All files end in '.FJ' to be able to convert into python, this language is just me attempting new things pls dont consider this serious.
+Let me know and send me any projects you make wih this id love to see what y'all can do with this.
