@@ -1,4 +1,4 @@
-import os.path
+import os
 import time
 File = str(input("'.FJ' files\t"))
 if os.path.splitext(File)[1] != '.FJ':
